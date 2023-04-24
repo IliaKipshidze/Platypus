@@ -1,0 +1,6 @@
+﻿  My Platypus.cpp
+C:\Users\comp\Desktop\Platypus\My Platypus.cpp(8,32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\comp\Desktop\Platypus\My Platypus.cpp(15,31): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\comp\Desktop\Platypus\My Platypus.cpp(118,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\comp\Desktop\Platypus\My Platypus.cpp(139,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Platypus.vcxproj -> C:\Users\comp\Desktop\Platypus\Debug\Platypus.exe

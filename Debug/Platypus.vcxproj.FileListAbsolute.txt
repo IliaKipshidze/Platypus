@@ -1,0 +1,2 @@
+C:\Users\comp\Desktop\Platypus\Debug\Platypus.exe
+C:\Users\comp\Desktop\Platypus\Debug\Platypus.pdb
